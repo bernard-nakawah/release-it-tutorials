@@ -1,11 +1,12 @@
 {
   "name": "starter",
-  "version": "1.4.0",
+  "version": "1.6.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "release-it"
+    "release": "release-it",
+    "update-current-release": "release-it --no-increment"
   },
   "repository": {
     "type": "git",
