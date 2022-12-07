@@ -1,5 +1,17 @@
 
 
+## [1.3.0](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.1.0...1.3.0) (2022-12-07)
+
+
+### Features
+
+* updating index.html ([17d7b7e](https://github.com/bernard-nakawah/release-it-tutorials/commit/17d7b7e501ec4bc6c651fdbd06a86cf8bf2b8542))
+
+
+### Bug Fixes
+
+* fixing new feature for index ([eafdc8c](https://github.com/bernard-nakawah/release-it-tutorials/commit/eafdc8c8ae0a61245e206fa0a01f270bb39974ad))
+
 ## [1.2.0](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.1.0...1.2.0) (2022-12-07)
 
 
