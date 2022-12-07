@@ -14,6 +14,34 @@
 * new package changes ([3f231f0](https://github.com/bernard-nakawah/release-it-tutorials/commit/3f231f06f23bfb8eeb62a3f4752aab2d466ccfe5))
 * release/1.15.1 ([2b9309f](https://github.com/bernard-nakawah/release-it-tutorials/commit/2b9309f99761ea06971299d88e248a745e710491))
 * update something ([c21f0f6](https://github.com/bernard-nakawah/release-it-tutorials/commit/c21f0f69b926e15a13b77df5b4516dc840ed45a9))
+* updated danger ([be70cb7](https://github.com/bernard-nakawah/release-it-tutorials/commit/be70cb7d8144a0424ad1576eb9ae4b3daef22b5c))
+
+## [1.3.0](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.1.0...1.3.0) (2022-12-07)
+
+
+### Features
+
+* updating index.html ([17d7b7e](https://github.com/bernard-nakawah/release-it-tutorials/commit/17d7b7e501ec4bc6c651fdbd06a86cf8bf2b8542))
+
+
+### Bug Fixes
+
+* fixing new feature for index ([eafdc8c](https://github.com/bernard-nakawah/release-it-tutorials/commit/eafdc8c8ae0a61245e206fa0a01f270bb39974ad))
+
+## [1.6.0](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.1.0...1.3.0) (2022-12-07)
+
+
+### Features
+
+* this is the new feature ([7e660d7](https://github.com/bernard-nakawah/release-it-tutorials/commit/7e660d7fd705900d13380e0ce0369a7740bba095))
+
+
+### Bug Fixes
+
+* cherry picked commit ([fd7147f](https://github.com/bernard-nakawah/release-it-tutorials/commit/fd7147f105b0d85788a1e9a6a5a5376e62fd83f6))
+* new package changes ([3f231f0](https://github.com/bernard-nakawah/release-it-tutorials/commit/3f231f06f23bfb8eeb62a3f4752aab2d466ccfe5))
+* release/1.15.1 ([2b9309f](https://github.com/bernard-nakawah/release-it-tutorials/commit/2b9309f99761ea06971299d88e248a745e710491))
+* update something ([c21f0f6](https://github.com/bernard-nakawah/release-it-tutorials/commit/c21f0f69b926e15a13b77df5b4516dc840ed45a9))
 
 ## [1.3.0](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.1.0...1.3.0) (2022-12-07)
 
