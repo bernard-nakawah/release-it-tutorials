@@ -1,5 +1,29 @@
 
 
+## [1.6.0](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.3.0...1.6.0) (2022-12-07)
+
+
+### Features
+
+* this is the new feature ([7e660d7](https://github.com/bernard-nakawah/release-it-tutorials/commit/7e660d7fd705900d13380e0ce0369a7740bba095))
+
+
+### Bug Fixes
+
+* update something ([c21f0f6](https://github.com/bernard-nakawah/release-it-tutorials/commit/c21f0f69b926e15a13b77df5b4516dc840ed45a9))
+
+## [1.5.0](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.3.0...1.5.0) (2022-12-07)
+
+
+### Features
+
+* this is the new feature ([7e660d7](https://github.com/bernard-nakawah/release-it-tutorials/commit/7e660d7fd705900d13380e0ce0369a7740bba095))
+
+
+### Bug Fixes
+
+* update something ([c21f0f6](https://github.com/bernard-nakawah/release-it-tutorials/commit/c21f0f69b926e15a13b77df5b4516dc840ed45a9))
+
 ## [1.4.0](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.3.0...1.4.0) (2022-12-07)
 
 
