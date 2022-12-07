@@ -1,5 +1,22 @@
 
 
+## [1.7.0](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.3.0...1.7.0) (2022-12-07)
+
+
+### Features
+
+* this is the new feature ([7e660d7](https://github.com/bernard-nakawah/release-it-tutorials/commit/7e660d7fd705900d13380e0ce0369a7740bba095))
+
+
+### Bug Fixes
+
+* add save file ([4a47fdc](https://github.com/bernard-nakawah/release-it-tutorials/commit/4a47fdc86b45b0580e0a2fca7763c619802490b3))
+* cherry picked commit ([fd7147f](https://github.com/bernard-nakawah/release-it-tutorials/commit/fd7147f105b0d85788a1e9a6a5a5376e62fd83f6))
+* new package changes ([3f231f0](https://github.com/bernard-nakawah/release-it-tutorials/commit/3f231f06f23bfb8eeb62a3f4752aab2d466ccfe5))
+* release/1.15.1 ([2b9309f](https://github.com/bernard-nakawah/release-it-tutorials/commit/2b9309f99761ea06971299d88e248a745e710491))
+* update something ([c21f0f6](https://github.com/bernard-nakawah/release-it-tutorials/commit/c21f0f69b926e15a13b77df5b4516dc840ed45a9))
+* updated danger ([683e9a3](https://github.com/bernard-nakawah/release-it-tutorials/commit/683e9a3ec51ef7ae0917160e61573d66a1133775))
+
 ## [1.6.0](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.1.0...1.3.0) (2022-12-07)
 
 
