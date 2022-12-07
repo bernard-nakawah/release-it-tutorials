@@ -1,5 +1,20 @@
 
 
+## [1.1.0](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.0.2...1.1.0) (2022-12-07)
+
+
+### Features
+
+* new feature ([1c3f5d3](https://github.com/bernard-nakawah/release-it-tutorials/commit/1c3f5d3592e149e35ef440b6f637b195735a12a6))
+
+
+### Bug Fixes
+
+* added index.html ([f9e359d](https://github.com/bernard-nakawah/release-it-tutorials/commit/f9e359d867ada7af6ba04f99ce5a5322c2186342))
+* commiting changes ([1ca1d96](https://github.com/bernard-nakawah/release-it-tutorials/commit/1ca1d96de11c0d195d00f3e0f20026a89523c1ec))
+* seems to be working but not how I want it to ([1a817de](https://github.com/bernard-nakawah/release-it-tutorials/commit/1a817de3deaf2d3c94f2c4853cfb60ca71c76b6f))
+* updated package.json ([7108d6e](https://github.com/bernard-nakawah/release-it-tutorials/commit/7108d6e716343b9cdbb5b018c5aa3b5994267b04))
+
 ## [1.0.2](https://github.com/bernard-nakawah/release-it-tutorials/compare/1.0.1...1.0.2) (2022-12-06)
 
 
